@@ -11,6 +11,7 @@ MechanicalSoup = "^1.1.0"
 selenium = "^4.1.5"
 webdriver-manager = "^3.5.4"
 configparser = "^5.2.0"
+Js2Py = "^0.71"
 
 [tool.poetry.dev-dependencies]
 
